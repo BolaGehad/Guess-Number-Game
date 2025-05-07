@@ -1,8 +1,12 @@
 🎮 Guess Number Game 🎮
+
+
 Welcome to the Guess Number Game! The game is simple: a random number between 1 and 100 is generated, and you need to guess it. With each guess, you'll receive feedback on whether your guess is too high, too low, or correct.
+
 
 📜 Project Overview:
 The Guess Number Game is developed using HTML, CSS, and JavaScript. The goal of the game is to guess a randomly generated number between 1 and 100. You’ll receive feedback based on your guess, whether it’s higher, lower, or correct.
+
 
 ✨ Features:
 Random Number Generation: A random number between 1 and 100 is generated.
@@ -33,7 +37,7 @@ Keep Guessing: Keep guessing until you find the correct number.
 
 This is the sleek and modern interface of the game, designed to enhance the user experience.
 
-![Preview Image](preview.png)
+![Preview Image](preview.png.png)
 
 
 💻 How to Run Locally:
