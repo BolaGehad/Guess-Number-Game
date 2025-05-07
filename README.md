@@ -48,11 +48,11 @@ To run this project locally:
 
 "git clone https://github.com/BolaGehad/Guess-Number-Game.git"
 
-2.Navigate to the project folder:
+2. Navigate to the project folder:
 
 "cd Guess-Number-Game"
 
-3.Open index.html in your browser:
+3 .Open index.html in your browser:
 
 "open index.html"
 
